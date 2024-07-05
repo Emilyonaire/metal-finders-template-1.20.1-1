@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "n n",
+    "  r"
+  ],
+  "key": {"i": {
+    "item": "minecraft:iron_ingot"
+  },
+    "n": {
+      "item": "minecraft:note_block"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "metal-finders:headphones",
+    "count": 1
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "item.metalfinders.ruby": "Ruby",
+  "item.metalfinders.raw_ruby": "Raw Ruby",
+  "item.metalfinders.headphones": "Headphones",
+  "item.metalfinders.basic_metal_detector": "Handheld Metal Detector",
+  "item.metalfinders.gold_metal_detector": "Science Mad Kid's Detector",
+  "item.metalfinders.diamond_metal_detector": "Minelab xTreme Detector",
+  "item.metalfinders.netherite_metal_detector": "Manticore PRO Detector",
+
+  "itemgroup.detectors": "Detectorists"
+}

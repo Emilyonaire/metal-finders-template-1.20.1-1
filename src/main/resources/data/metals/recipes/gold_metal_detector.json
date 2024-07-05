@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  i",
+    " HL",
+    "NC "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:gold_ingot"
+    },
+    "H": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "C": {
+      "item": "minecraft:calibrated_sculk_sensor"
+    }
+  },
+  "result": {
+    "item": "metal-finders:gold_metal_detector",
+    "count": 1
+  },
+  "group": "Detectors"
+}
